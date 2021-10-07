@@ -13,5 +13,9 @@ int main()
     {
         case 's':
         cout << "SUMA: " << x  << " + " << y << " = " << x+y << endl;
+        break;
+        case 'r':
+        cout << "RESTA: " << x << " - " << y << " " << x-y << endl;   
+        break;
     }
 }
