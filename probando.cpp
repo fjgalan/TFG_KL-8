@@ -15,7 +15,9 @@ int main()
         cout << "SUMA: " << x  << " + " << y << " = " << x+y << endl;
         break;
         case 'r':
-        cout << "RESTA: " << x << " - " << y << " " << x-y << endl;   
+        cout << "RESTA: " << x << " - " << y << " = " << x-y << endl;   
         break;
+        case 'm':
+        cout << "MULTIPLICACIÓN: " << x << " * " << y << " = " << x*y << endl;
     }
 }
