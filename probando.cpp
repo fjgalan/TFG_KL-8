@@ -29,5 +29,5 @@ int main()
             break;
         }
     } while (c == 's' || c == 'r' || c == 'm' || c == 'd');
-    jdfngdjnigjdifjgd
+    cout << "Gracias por usar la calculadora. " << endl;
 }
