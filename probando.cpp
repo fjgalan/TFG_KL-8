@@ -4,5 +4,14 @@ using namespace std;
 
 int main()
 {
-    cout << "Hola mundo. " << endl;
+    int x, y, z;
+    char c;
+    cout << "CALCULADORA: " << endl;
+    cin >> x >> y;
+    cin >> c;
+    switch(c)
+    {
+        case 's':
+        cout << "SUMA: " << x  << " + " << y << " = " << x+y << endl;
+    }
 }
