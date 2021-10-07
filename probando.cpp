@@ -31,3 +31,5 @@ int main()
     } while (c == 's' || c == 'r' || c == 'm' || c == 'd');
     cout << "Gracias por usar la calculadora. " << endl;
 }
+
+MERGEACION 1 
