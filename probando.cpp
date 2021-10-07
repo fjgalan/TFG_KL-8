@@ -29,4 +29,5 @@ int main()
             break;
         }
     } while (c == 's' || c == 'r' || c == 'm' || c == 'd');
+    jdfngdjnigjdifjgd
 }
